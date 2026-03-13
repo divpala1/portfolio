@@ -1,1 +1,0 @@
-Portfolio Django App
